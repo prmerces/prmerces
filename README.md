@@ -6,6 +6,7 @@
 <div>
     <a href="https://github.com/prmerces">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=prmerces&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmerces&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br> 
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
